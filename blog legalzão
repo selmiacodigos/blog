@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de Experiências Adolescentes</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        header { text-align: center; }
+        article { margin: 20px 0; padding: 10px; border: 1px solid #ccc; }
+        h2 { color: #2c3e50; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Teenage Fever Dream</h1>
+        <p>Compartilhe suas histórias e vivências adolescentes!</p>
+    </header>
+
+    <article>
+        <h2>Minha Primeira Festa</h2>
+        <p>Nesta postagem, vou contar como foi a minha primeira festa e as emoções que vivi...</p>
+    </article>
+
+    <article>
+        <h2>Desafios da Escola</h2>
+        <p>A escola pode ser desafiadora, mas também é cheia de aprendizados...</p>
+    </article>
+
+    <footer>
+        <p>&copy; 2024 Blog de Experiências Adolescentes</p>
+    </footer>
+</bod
